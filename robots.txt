@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://xaeduawaew.emudev.org/sitemap.xml
